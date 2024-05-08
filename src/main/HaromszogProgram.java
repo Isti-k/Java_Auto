@@ -8,6 +8,12 @@ package main;
  *
  * @author KovácsIstvánGábor(SZ
  */
-public class HaromszogKerulet {
-    
+public class HaromszogProgram {
+    public static void main(String[] args) {
+        HaromszogKerulet();
+    }
+
+    private static void HaromszogKerulet() {
+        
+    }
 }
